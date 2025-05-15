@@ -63,11 +63,8 @@ Toggle between ascending and descending order with a single click
 
 
 
-🛠️ Built With
-Technology
-Purpose
+🛠️ Built With: 
 Python 3.8+
-Core programming language
 Tkinter
 GUI framework
 Pillow (PIL)
